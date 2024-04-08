@@ -5,7 +5,7 @@
 
 // Author:   Neel Arora, Nimish Nijhawan
 // Email:    na92085@student.musd.org, nn102597@student.musd.org
-// Coach:     Mr. Tran
+// Advisor:     Mr. Tran
 
 
 
